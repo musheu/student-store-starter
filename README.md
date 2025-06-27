@@ -1,6 +1,0 @@
-# Student Store Starter Code
-
-
-
-
-
